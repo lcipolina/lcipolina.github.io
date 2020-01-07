@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "lcipolina, Launches Site"
+categories: [blog, engineering]
+tags: [maths, engineering]
 date: 2020-01-06
 ---
 
