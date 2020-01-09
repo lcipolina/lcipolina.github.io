@@ -20,12 +20,17 @@ The idea is to build the CMAKE file using Visual Studio directly. To do so, the 
 
 2. Use Visual Studio (2017 in my case) to build the CMakeList file from inside the program, as shown in the pictures in the above link.
 
-<img src="https://octodex.github.com/images/jetpacktocat.png"height="300">
+
+<img src="https://octodex.github.com/images/jetpacktocat.png"  height="300">
 
 
 ![Here is the alt text](https://github.com/lcipolina/lcipolina.github.io/blob/master/pictures/2020-01-09/pic1.PNG "Here is the Title text")
 
-<img src="images/2020-01-09/pic1.PNG">
+<img src="pictures/2020-01-09/pic1.PNG" height="300">
+
+<img src="https://github.com/lcipolina/lcipolina.github.io/blob/master/images/2020-01-09/pic1.PNG" height="300">
+
+<img src="images/2020-01-09/pic1.PNG" height="300">
 
 <img src="images/pic1.PNG"/>
        
@@ -52,7 +57,7 @@ C:\Program Files\PCL 1.9.1\bin
 
 •  Also, I've change the file and added these lines below to handle Boost and the **pthread.h** issue:
 
-'''
+```
 project(playback)
 
 option(CMAKE_USE_WIN32_THREADS_INIT "using WIN32 threads" ON) 
@@ -60,7 +65,7 @@ option(CMAKE_USE_WIN32_THREADS_INIT "using WIN32 threads" ON)
 set(Boost_USE_STATIC_LIBS ON) 
 
 set(Boost_USE_STATIC ON) 
-''' 
+```
   
 ##  How To Recompile
 1.Locate the folder where ‘environment.exe’ is
