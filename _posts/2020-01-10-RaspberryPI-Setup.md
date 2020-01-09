@@ -1,6 +1,6 @@
 # How to Setup a Raspberry PI Without Keyboard, No Mouse and No Ethernet Cable
 
-# Table of contents
+## Table of contents
 1. [Introduction](#introduction)
 2. [Materials](#materials)
 3. [Burning the Operating System on the Mini SD Card ](#burningOS)
@@ -22,8 +22,11 @@ The Raspberry PI runs under Linux, but comes out of the package without any oper
 Basically the steps required are as follows:
 
 1. To install Raspbian (OS) we first need to download it to our computer to then transfer it to the Raspberry PI using the micro SD card.
+
 2.	To transfer Raspbian from our computer to the Raspberry PI, we will use a micro SD car. The idea is to copy the OS from our computer to the SD card and from there to the Raspberry PI.
+
 3.	After installing the OS in the Raspberry PI, we will update it and all the associated packages, plus any additional application we want.
+
 4.	The last step will be to install the VCN application to manage the Raspberry PI remotely from our computer.
 
 We explain how to achieve these steps in more detail below.
