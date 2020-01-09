@@ -12,7 +12,7 @@ This blog entry details the steps to compile the CMAKE file on your Windows comp
 
 The idea is to build the CMAKE file using Visual Studio directly. To do so, the first step is to follow the compilation steps explained on this link:
 
-[link to compile CMAKE in VS](https://docs.microsoft.com/en-us/cpp/build/cmake-projects-in-visual-studio?view=vs-2019)
+[link explaining how to compile CMAKE in VS](https://docs.microsoft.com/en-us/cpp/build/cmake-projects-in-visual-studio?view=vs-2019)
 
 ## 3 Basic steps:
 
