@@ -56,7 +56,9 @@ Download Etcher from the link below. be sure to install the full version with De
 
 **Insert the card into the reader device** 
 
-<img src="pictures/piSetup/pic1.png" width="300">
+<img src="https://lcipolina.github.io/images/2020-02-10/pi_setup_pic1.png" width="300">
+
+
 
 4.	To write the OS image to the SD card, run Etcher and select the Zip file with the OS image. Click on “Flash” and the image will be now on our SD card. On windows 10 various pop ups many emerge, just ignore them and wait until it will say Flash Complete.
 
