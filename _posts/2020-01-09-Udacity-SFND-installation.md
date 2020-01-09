@@ -53,14 +53,15 @@ C:\Program Files\PCL 1.9.1\bin
 
 •  Also, I've change the file and added these lines below to handle Boost and the **pthread.h** issue:
 
-    >> project(playback)
+'''
+     project(playback)
 
-    >> option(CMAKE_USE_WIN32_THREADS_INIT "using WIN32 threads" ON) 
+     option(CMAKE_USE_WIN32_THREADS_INIT "using WIN32 threads" ON) 
 
-    >> set(Boost_USE_STATIC_LIBS ON) 
+     set(Boost_USE_STATIC_LIBS ON) 
 
-    >> set(Boost_USE_STATIC ON) 
-  
+     set(Boost_USE_STATIC ON) 
+ ''' 
   
 ##  How To Recompile
 1.Locate the folder where ‘environment.exe’ is
