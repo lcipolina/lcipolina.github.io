@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Udacity - Sensor Fusion Nano Degree - CMAKE compilation"
+title: "Udacity-Sensor Fusion Nano Degree-CMAKE compilation"
 categories: [blog, engineering]
 tags: [maths, engineering]
 date: 2020-01-09
@@ -24,7 +24,7 @@ The idea is to build the CMAKE file using Visual Studio directly. To do so, the 
 <img src="https://lcipolina.github.io/images/2020-01-09/pic1.PNG">
 
 
-<img src="https://lcipolina.github.io/images/2020-01-09/pic2.PNG">
+<img src="https://lcipolina.github.io/images/2020-01-09/pic2.PNG" height="400">
 
 
 
@@ -35,7 +35,7 @@ C:\Program Files\PCL 1.9.1\bin
 ## Notes:
 •  I was using Window's Powershelll to make the build and it's not as smart
 
-•  Also, I've change the file and added these lines below to handle Boost and the **pthread.h** issue:
+•  Also, on the CMAKE file I've change the file and added these lines below to handle Boost and the **pthread.h** issue:
 
 ```
 project(playback)
