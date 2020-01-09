@@ -20,9 +20,12 @@ The idea is to build the CMAKE file using Visual Studio directly. To do so, the 
 
 2. Use Visual Studio (2017 in my case) to build the CMakeList file from inside the program, as shown in the pictures in the above link.
 
-pictures/2020-01-09/pic1.PNG
+
 
 ![Here is the alt text](https://github.com/lcipolina/lcipolina.github.io/blob/master/pictures/2020-01-09/pic1.PNG "Here is the Title text")
+
+
+![Here is the alt text](pictures/2020-01-09/pic1.PNG)
 
 <img src="{{lcipolina.github.io}}/pictures/2020-02-09/pic1.PNG" style="display: block; margin: auto;" />
 
