@@ -44,7 +44,7 @@ The idea is to build the CMAKE file using Visual Studio directly. To do so, the 
 
 3) Add the following to your ROOT Path directory (environment variables ) in Windows:
 
-C:\Program Files\PCL 1.9.1\bin C:\Program Files\PCL 1.9.1
+C:\Program Files\PCL 1.9.1\bin 
 
 ## Notes:
 •  I was using Window's Powershelll to make the build and it's not as smart
