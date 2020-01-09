@@ -20,11 +20,10 @@ The idea is to build the CMAKE file using Visual Studio directly. To do so, the 
 
 2. Use Visual Studio (2017 in my case) to build the CMakeList file from inside the program, as shown in the pictures in the above link.
 
-_posts/pictures/2020-02-09/pic1.PNG
 
-![picture](_posts/pictures/2020-02-09/pic1.PNG)
+![picture](pictures/2020-02-09/pic1.PNG)
 
-![picture](_posts/pictures/2020-02-09/pic2.PNG)
+![picture](pictures/2020-02-09/pic2.PNG)
 
 
 3) Add the following to your ROOT Path directory (environment variables ) in Windows:
@@ -33,27 +32,28 @@ C:\Program Files\PCL 1.9.1\bin C:\Program Files\PCL 1.9.1
 
 ## Notes:
 •  I was using Window's Powershelll to make the build and it's not as smart
-•  Also, I've change the file and added these lines below to handle Boost and the pthread.h issue:
 
->>    project(playback)
+•  Also, I've change the file and added these lines below to handle Boost and the **pthread.h** issue:
 
->>    option(CMAKE_USE_WIN32_THREADS_INIT "using WIN32 threads" ON) 
+    >> project(playback)
 
->>    set(Boost_USE_STATIC_LIBS ON) 
+    >> option(CMAKE_USE_WIN32_THREADS_INIT "using WIN32 threads" ON) 
 
->>    set(Boost_USE_STATIC ON) 
+    >> set(Boost_USE_STATIC_LIBS ON) 
+
+    >> set(Boost_USE_STATIC ON) 
   
   
 ##  How To Recompile
 1.Locate the folder where ‘environment.exe’ is
 
-![picture](_posts/pictures/2020-02-09/pic3.PNG)
+![picture](pictures/2020-02-09/pic3.PNG)
 
 2.Go to Visual Studio
 3.Click on the MakeList.txt until the ‘CMAKE’ option appears on Visual Studio
 4.Then choose the ‘environment.exe’ in the drop down as shown below, and run.
 
-![picture](_posts/pictures/2020-02-09/pic4.PNG)
+![picture](pictures/2020-02-09/pic4.PNG)
 
 
 We need to do this every time we want to use the application (environment.exe).
