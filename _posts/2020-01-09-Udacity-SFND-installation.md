@@ -24,6 +24,10 @@ The idea is to build the CMAKE file using Visual Studio directly. To do so, the 
 
 [logo]: https://github.com/lcipolina/lcipolina.github.io/tree/master/_posts/pictures/2020-02-09/pic1.png "Logo Title Text 2"
 
+![picture](/pictures/2020-02-09/pic1.PNG)
+
+
+
 <img src="https://github.com/lcipolina/lcipolina.github.io/tree/master/_posts/pictures/2020-02-09/pic2.PNG" alt="">
 
 3) Add the following to your ROOT Path directory (environment variables ) in Windows:
