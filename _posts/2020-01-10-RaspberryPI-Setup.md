@@ -30,6 +30,8 @@ Basically the steps required are as follows:
 4.	The last step will be to install the VCN application to manage the Raspberry PI remotely from our computer.
 
 We explain how to achieve these steps in more detail below.
+
+___________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________
 
 ## Materials <a name="materials"></a>
