@@ -14,7 +14,7 @@
 11. [Update and Upgrade the Software ](#update)
 12. [References and Additional Resources](#references)
 
-## Intoduction <a name="introduction"></a>
+# Intoduction <a name="introduction"></a>
 This tutorial explains how to setup a Raspberry PI using only command line (usually called “a headless setup”). The headless setup has the advantage that it can be done without needing a monitor and keyboard, as opposed to other types of setup. In a headless setup, the operating system (OS) is installed and configured entirely by command line.
 
 The Raspberry PI runs under Linux, but comes out of the package without any operating system installed.  In this tutorial we show how to install Raspbian (a version of Debian Linux), which is the most common OS for the Raspberry Pi, and we will also show how to setup additional features.
@@ -34,7 +34,7 @@ We explain how to achieve these steps in more detail below.
 ___________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________
 
-## Materials <a name="materials"></a>
+# Materials <a name="materials"></a>
 *	A Raspberry Pi with WiFi on-board 
 
 *	A micro SD card with SD adapter. We recommend at least 8GB of storage capacity.
