@@ -23,18 +23,21 @@ The idea is to build the CMAKE file using Visual Studio directly. To do so, the 
 
 <img src="https://octodex.github.com/images/jetpacktocat.png"  height="300">
 
+<img src="https://lcipolina.github.io/images/pic1.PNG" height="300">
+
+
 
 ![Here is the alt text](https://github.com/lcipolina/lcipolina.github.io/blob/master/pictures/2020-01-09/pic1.PNG "Here is the Title text")
 
 <img src="pictures/2020-01-09/pic1.PNG" height="300">
 
-<img src="https://github.com/lcipolina/lcipolina.github.io/blob/master/images/2020-01-09/pic1.PNG" height="300">
+
 
 <img src="images/2020-01-09/pic1.PNG" height="300">
 
 <img src="images/pic1.PNG"/>
        
-![](images/pic1.PNG)
+![text](images/pic1.PNG)
 
 
 
