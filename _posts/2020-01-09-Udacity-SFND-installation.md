@@ -24,6 +24,8 @@ The idea is to build the CMAKE file using Visual Studio directly. To do so, the 
 
 ![Here is the alt text](https://github.com/lcipolina/lcipolina.github.io/blob/master/pictures/2020-01-09/pic1.PNG "Here is the Title text")
 
+<img src="images/2020-01-09/pic1.PNG"/>
+
 
 ![Here is the alt text](pictures/2020-01-09/pic1.PNG)
 
