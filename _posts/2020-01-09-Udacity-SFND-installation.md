@@ -22,6 +22,8 @@ The idea is to build the CMAKE file using Visual Studio directly. To do so, the 
 
 <img src="https://github.com/lcipolina/lcipolina.github.io/tree/master/_posts/pictures/2020-02-09/pic1.PNG" alt="">
 
+[logo]: https://github.com/lcipolina/lcipolina.github.io/tree/master/_posts/pictures/2020-02-09/pic1.png "Logo Title Text 2"
+
 <img src="https://github.com/lcipolina/lcipolina.github.io/tree/master/_posts/pictures/2020-02-09/pic2.PNG" alt="">
 
 3) Add the following to your ROOT Path directory (environment variables ) in Windows:
@@ -33,7 +35,9 @@ C:\Program Files\PCL 1.9.1\bin C:\Program Files\PCL 1.9.1
 •  Also, I've change the file and added these lines below to handle Boost and the pthread.h issue:
 
 >>  project(playback)
+
 >>  option(CMAKE_USE_WIN32_THREADS_INIT "using WIN32 threads" ON) set(Boost_USE_STATIC_LIBS ON) 
+
 >>  set(Boost_USE_STATIC ON) 
   
   
