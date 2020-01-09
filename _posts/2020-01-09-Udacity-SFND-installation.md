@@ -40,7 +40,9 @@ C:\Program Files\PCL 1.9.1\bin C:\Program Files\PCL 1.9.1
 
 >>  project(playback)
 
->>  option(CMAKE_USE_WIN32_THREADS_INIT "using WIN32 threads" ON) set(Boost_USE_STATIC_LIBS ON) 
+>>  option(CMAKE_USE_WIN32_THREADS_INIT "using WIN32 threads" ON) 
+
+>> set(Boost_USE_STATIC_LIBS ON) 
 
 >>  set(Boost_USE_STATIC ON) 
   
