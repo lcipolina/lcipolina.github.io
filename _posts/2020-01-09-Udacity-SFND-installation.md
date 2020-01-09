@@ -26,7 +26,9 @@ The idea is to build the CMAKE file using Visual Studio directly. To do so, the 
 
 <img src="images/2020-01-09/pic1.PNG"/>
 
-<img src="images/pic1.PNG/>
+<img src="images/pic1.PNG"/>
+       
+![](images/pic1.PNG)
 
 
 
