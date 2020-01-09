@@ -342,13 +342,13 @@ ________________________________________________________________________________
 
 # References and Additional Resources.<a name="references"></a>
 
-1.	How to setup the PI with keyboard and monitor:
+* How to setup the PI with keyboard and monitor:
 
 https://www.imore.com/how-get-started-using-raspberry-pi
 
 https://lifehacker.com/the-always-up-to-date-guide-to-setting-up-your-raspberr-1781419054
 
-2.	How to use Etcher:
+* 	How to use Etcher:
 
 Windows:
 
@@ -358,11 +358,11 @@ Mac:
 
 https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi/making-an-sd-card-using-a-mac
 
-3.	Tutorial on SSHing via Mac Terminal:
+* 	Tutorial on SSHing via Mac Terminal:
 
 https://learn.adafruit.com/adafruits-raspberry-pi-lesson-6-using-ssh/using-ssh-on-a-mac-or-linux#
 
-4.	List of WIFI configuration files for different Raspbian versions:
+* 	List of WIFI configuration files for different Raspbian versions:
 
 https://howchoo.com/g/ndy1zte2yjn/how-to-set-up-wifi-on-your-raspberry-pi-without-ethernet
 
