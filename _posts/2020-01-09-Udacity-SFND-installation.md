@@ -25,30 +25,11 @@ The idea is to build the CMAKE file using Visual Studio directly. To do so, the 
 
 <img src="https://lcipolina.github.io/images/pic1.PNG" height="300">
 
+<img src="https://lcipolina.github.io/images/2020-01-09//pic1.PNG">
 
 
-![Here is the alt text](https://github.com/lcipolina/lcipolina.github.io/blob/master/pictures/2020-01-09/pic1.PNG "Here is the Title text")
+<img src="https://lcipolina.github.io/images/2020-01-09/pic2.PNG">
 
-<img src="pictures/2020-01-09/pic1.PNG" height="300">
-
-
-
-<img src="images/2020-01-09/pic1.PNG" height="300">
-
-<img src="images/pic1.PNG"/>
-       
-![text](images/pic1.PNG)
-
-
-
-![Here is the alt text](pictures/2020-01-09/pic1.PNG)
-
-<img src="{{lcipolina.github.io}}/pictures/2020-02-09/pic1.PNG" style="display: block; margin: auto;" />
-
-
-<div><img src="https://github.com/lcipolina/lcipolina.github.io/blob/master/pictures/2020-01-09/pic1.PNG" alt="coffee"></div>   
-
-![picture](pictures/2020-02-09/pic2.PNG)
 
 
 3) Add the following to your ROOT Path directory (environment variables ) in Windows:
@@ -73,13 +54,13 @@ set(Boost_USE_STATIC ON)
 ##  How To Recompile
 1.Locate the folder where ‘environment.exe’ is
 
-![picture](pictures/2020-02-09/pic3.PNG)
+<img src="https://lcipolina.github.io/images/2020-01-09/pic3.PNG">
 
 2.Go to Visual Studio
 3.Click on the MakeList.txt until the ‘CMAKE’ option appears on Visual Studio
 4.Then choose the ‘environment.exe’ in the drop down as shown below, and run.
 
-![picture](pictures/2020-02-09/pic4.PNG)
+<img src="https://lcipolina.github.io/images/2020-01-09/pic4.PNG">
 
 
 We need to do this every time we want to use the application (environment.exe).
