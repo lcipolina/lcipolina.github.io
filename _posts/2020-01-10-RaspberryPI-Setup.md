@@ -1,6 +1,6 @@
 # How to Setup a Raspberry PI Without Keyboard, No Mouse and No Ethernet Cable
 
-## Table of contents##
+## Table of contents
 1. [Introduction](#introduction)
 2. [Materials](#materials)
 3. [Burning the Operating System on the Mini SD Card ](#burningOS)
