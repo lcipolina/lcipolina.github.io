@@ -21,11 +21,7 @@ The idea is to build the CMAKE file using Visual Studio directly. To do so, the 
 2. Use Visual Studio (2017 in my case) to build the CMakeList file from inside the program, as shown in the pictures in the above link.
 
 
-<img src="https://octodex.github.com/images/jetpacktocat.png"  height="300">
-
-<img src="https://lcipolina.github.io/images/pic1.PNG" height="300">
-
-<img src="https://lcipolina.github.io/images/2020-01-09//pic1.PNG">
+<img src="https://lcipolina.github.io/images/2020-01-09/pic1.PNG">
 
 
 <img src="https://lcipolina.github.io/images/2020-01-09/pic2.PNG">
