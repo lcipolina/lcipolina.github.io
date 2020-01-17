@@ -1,4 +1,4 @@
-# Trick to install GymAI on Windows 10 and use ith with Jupyter
+# Trick to install GymAI on Windows 10 and use it with Jupyter
 
 These are some hacks that allowed me to do two things:
 1. Create a Python environment in Jupyter Notebooks
@@ -61,13 +61,13 @@ Open a Conda Promt shell and type the following:
 **Notes:**  
 If you have problems with the SSL, you can isntall it from here. Just download it and run the installer:
 
-https://slproweb.com/products/Win32OpenSSL.html
+[](https://slproweb.com/products/Win32OpenSSL.html)
 
 3. Now we can install the rest of gym packages
 
 Pretty much follow the steps here, except for the GIT installation (where we did pip install gitpython)
 
-https://towardsdatascience.com/how-to-install-openai-gym-in-a-windows-environment-338969e24d30
+[](https://towardsdatascience.com/how-to-install-openai-gym-in-a-windows-environment-338969e24d30)
 
 
 ## To test the environment
