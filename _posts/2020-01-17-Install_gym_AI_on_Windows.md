@@ -16,12 +16,12 @@ These are some hacks that allowed me to do two things:
 
 _____________________________________________________________________________________________________________________________________
 
-## Create a Python environment using Anaconda GUI
+# Create a Python environment using Anaconda GUI
 This is the easiest way to create an environment. 
 
 Click on *Environments* on the left side panel and follow the instructions. Make sure to select the python version you want.
 
-<img src="https://lcipolina.github.io/images/2020-01-17/createEnv.PNG" width="300">
+<img src="https://lcipolina.github.io/images/2020-01-17/createEnv.PNG" width="500">
 
 After the environment is created, you can see on that same tab, the packages installed.
 
@@ -34,7 +34,7 @@ You will see the environment created and the applications and packages installed
 Now you will be able to work on Jupyter notebooks under this new environment.
 _____________________________________________________________________________________________________________________________________
 
-## Installing Jupyter Notebooks on the new environment
+# Installing Jupyter Notebooks on the new environment
 The easiest way is to install Jupyter using Anaconda GUI. After we have selected to work in the environment created, we will be given the option to install Jupyter as shown below.
 
 <img src="https://lcipolina.github.io/images/2020-01-17/installJupy.PNG" width="500">
@@ -61,7 +61,7 @@ There is a chance that Anaconda gives back an error and won't let us install Jup
 
 _____________________________________________________________________________________________________________________________________
 
-## Installing gym on the new environment
+# Installing gym on the new environment
 Open a Conda Promt shell and type the following:
 
 1. If you want you can update conda just in case (on the conda shell)
@@ -91,7 +91,7 @@ Pretty much follow the steps here, except for the GIT installation (where we did
 
 _____________________________________________________________________________________________________________________________________
 
-## Test the environment
+# Test the environment
 We will follow the testing procedure described in the link above, but using Jupyter Notebooks:
 
 1. Open Anaconda and select the environment we've just created (as shown in the picture above)
