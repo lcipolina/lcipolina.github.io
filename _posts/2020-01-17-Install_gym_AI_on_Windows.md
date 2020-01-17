@@ -33,11 +33,17 @@ There is a chance that Anaconda gives back an error and won't let us install Jup
 **Here is the trick:**
 
 * We will install Jupyter in a new environment that Anaconda is creating for us. Let's call this environment *Notebook*
+
 * You can either keep working on this *Notebook* environment, or you can clone it.
+
 * To clone an environment, simply go to where you created a new environment and select *clone* on the bottom
+
 * If you clone this *Notebook* environment, you will now have an environment named *gym* but with a usable Jupyter Notebooks on it.
+
 * Note that to name the cloned environment *gym*, you will have to delete the previous gym env (the one that we couldn't install the notebook on it).
+
 * After the *Notebook* environment is cloned into *gym* we are able to install new packages into this environment.
+
 * Note: if you notices that Anaconda freezes, dont' worry, just close it after a while.
 
 ## Installing gym on the new environment
