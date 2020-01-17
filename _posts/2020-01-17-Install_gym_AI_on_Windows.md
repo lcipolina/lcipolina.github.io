@@ -1,8 +1,12 @@
 # Trick to install GymAI on Windows 10 and use it with Jupyter
 
 These are some hacks that allowed me to do two things:
+
 1. Create a Python environment in Jupyter Notebooks
+
 2. Install **gymAI** and use it with Notebooks
+
+_____________________________________________________________________________________________________________________________________
 
 ## Create a Python environment using Anaconda GUI
 This is the easiest way to create an environment. 
@@ -20,6 +24,7 @@ After the new environment is created, go back to *Home* in the left side panel a
 You will see the environment created and the applications and packages installed. IT also shows the location where the environment is created.
 
 Now you will be able to work on Jupyter notebooks under this new environment.
+_____________________________________________________________________________________________________________________________________
 
 ## Installing Jupyter Notebooks on the new environment
 The easiest way is to install Jupyter using Anaconda GUI. After we have selected to work in the environment created, we will be given the option to install Jupyter as shown below.
@@ -46,6 +51,8 @@ There is a chance that Anaconda gives back an error and won't let us install Jup
 
 * Note: if you notices that Anaconda freezes, dont' worry, just close it after a while.
 
+_____________________________________________________________________________________________________________________________________
+
 ## Installing gym on the new environment
 Open a Conda Promt shell and type the following:
 
@@ -66,16 +73,17 @@ Open a Conda Promt shell and type the following:
 **Notes:**  
 If you have problems with the SSL, you can isntall it from here. Just download it and run the installer:
 
-(https://slproweb.com/products/Win32OpenSSL.html)
+[https://slproweb.com/products/Win32OpenSSL.html](https://slproweb.com/products/Win32OpenSSL.html)
 
 3. Now we can install the rest of gym packages
 
 Pretty much follow the steps here, except for the GIT installation (where we did pip install gitpython)
 
-(https://towardsdatascience.com/how-to-install-openai-gym-in-a-windows-environment-338969e24d30)
+[https://towardsdatascience.com/how-to-install-openai-gym-in-a-windows-environment-338969e24d30](https://towardsdatascience.com/how-to-install-openai-gym-in-a-windows-environment-338969e24d30)
 
+_____________________________________________________________________________________________________________________________________
 
-## To test the environment
+## Test the environment
 We will follow the testing procedure described in the link above, but using Jupyter Notebooks:
 
 1. Open Anaconda and select the environment we've just created (as shown in the picture above)
