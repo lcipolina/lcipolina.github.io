@@ -7,7 +7,6 @@ date: 2020-01-17
 ---
 
 
-# Trick to install GymAI on Windows 10 and use it with Jupyter
 
 These are some hacks that allowed me to do two things:
 
@@ -28,7 +27,7 @@ After the environment is created, you can see on that same tab, the packages ins
 
 After the new environment is created, go back to *Home* in the left side panel and switch from *Root* to the new environment created. This is how you change working environments.
 
-<img src="https://lcipolina.github.io/images/2020-01-17/changeEnvs.PNG" width="300">
+<img src="https://lcipolina.github.io/images/2020-01-17/changeEnvs.PNG" width="500">
 
 You will see the environment created and the applications and packages installed. IT also shows the location where the environment is created.
 
@@ -38,7 +37,7 @@ ________________________________________________________________________________
 ## Installing Jupyter Notebooks on the new environment
 The easiest way is to install Jupyter using Anaconda GUI. After we have selected to work in the environment created, we will be given the option to install Jupyter as shown below.
 
-<img src="https://lcipolina.github.io/images/2020-01-17/installJupy.PNG" width="400">
+<img src="https://lcipolina.github.io/images/2020-01-17/installJupy.PNG" width="500">
 
 If everything goes well, we will have Jupyter installed and off we go.
 
