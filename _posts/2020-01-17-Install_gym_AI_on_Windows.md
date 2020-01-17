@@ -95,7 +95,9 @@ ________________________________________________________________________________
 We will follow the testing procedure described in the link above, but using Jupyter Notebooks:
 
 1. Open Anaconda and select the environment we've just created (as shown in the picture above)
+
 2. Click on *Launch* a new Jupyter Notebook
+
 3. An instance of Jupyter will open inyour browser, now we need to tell it that we want a Notebook created in our new environment:
 
 <img src="https://lcipolina.github.io/images/2020-01-17/newJupyter.PNG" width="600">
