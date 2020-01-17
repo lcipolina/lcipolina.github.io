@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Trick to install GymAI on Windows 10 and use it with Jupyter"
+categories: [blog, engineering]
+tags: [maths, engineering, reinforcement learning]
+date: 2020-01-17
+---
+
+
 # Trick to install GymAI on Windows 10 and use it with Jupyter
 
 These are some hacks that allowed me to do two things:
