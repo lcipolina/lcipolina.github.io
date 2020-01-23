@@ -21,13 +21,13 @@ This is the easiest way to create an environment.
 
 Click on *Environments* on the left side panel and follow the instructions. Make sure to select the python version you want.
 
-<img src="https://lcipolina.github.io/images/2020-01-17/createEnv.PNG" width="500">
+<img src="https://lcipolina.github.io/images/2020-01-17/createEnv.PNG" width="600">
 
 After the environment is created, you can see on that same tab, the packages installed.
 
 After the new environment is created, go back to *Home* in the left side panel and switch from *Root* to the new environment created. This is how you change working environments.
 
-<img src="https://lcipolina.github.io/images/2020-01-17/changeEnvs.PNG" width="500">
+<img src="https://lcipolina.github.io/images/2020-01-17/changeEnvs.PNG" width="600">
 
 You will see the environment created and the applications and packages installed. IT also shows the location where the environment is created.
 
@@ -37,7 +37,7 @@ ________________________________________________________________________________
 # Installing Jupyter Notebooks on the new environment
 The easiest way is to install Jupyter using Anaconda GUI. After we have selected to work in the environment created, we will be given the option to install Jupyter as shown below.
 
-<img src="https://lcipolina.github.io/images/2020-01-17/installJupy.PNG" width="500">
+<img src="https://lcipolina.github.io/images/2020-01-17/installJupy.PNG" width="600">
 
 If everything goes well, we will have Jupyter installed and off we go.
 
@@ -100,9 +100,9 @@ We will follow the testing procedure described in the link above, but using Jupy
 
 3. An instance of Jupyter will open inyour browser, now we need to tell it that we want a Notebook created in our new environment:
 
-<img src="https://lcipolina.github.io/images/2020-01-17/newJupyter.PNG" width="600">
+<img src="https://lcipolina.github.io/images/2020-01-17/newJupyter.PNG" width="700">
 
 Now we can test our installation of *gym* using Jupyter Notebooks as explained above.
 
-<img src="https://lcipolina.github.io/images/2020-01-17/test.PNG" width="600">
+<img src="https://lcipolina.github.io/images/2020-01-17/test.PNG" width="700">
 
