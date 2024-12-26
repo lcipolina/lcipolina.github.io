@@ -3,7 +3,7 @@ layout: page
 permalink: /outreach/
 title: outreach
 description: Community outreach
-nav: true
+nav: false #true  # hide as there is no content
 nav_order: 5
 ---
 
