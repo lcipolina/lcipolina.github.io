@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lcipolina
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - lcipolina/open_spiel_arena
+  - lcipolina/Coalitions_RL-Full_paper
+  - lcipolina/Ray_tutorials
