@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-01-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I have started a posdoc at the  [Juelich Supercomputing Center](https://www.fz-juelich.de/en/ias/jsc) in the Scalable Deep Learning research team. My work will focus on LLM reasoning and planning.
