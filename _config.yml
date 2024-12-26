@@ -637,6 +637,6 @@ jsonresume:
 # -----------------------------------------------------------------------------
 # Link Checker Configuration
 # -----------------------------------------------------------------------------
-htmlproofer:
-  ignore_urls:
-    - "https://www.nyu.edu/"
+# htmlproofer:
+#  ignore_urls:
+#    - "https://www.nyu.edu/"
