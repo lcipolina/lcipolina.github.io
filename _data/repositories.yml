@@ -5,5 +5,5 @@ repo_description_lines_max: 2
 
 github_repos:
   - lcipolina/open_spiel_arena
-  - lcipolina/Coalitions_RL-Full_paper
+  - lcipolina/coalitions_RL
   - lcipolina/Ray_tutorials
