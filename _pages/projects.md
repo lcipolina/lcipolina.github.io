@@ -5,7 +5,7 @@ permalink: /projects/
 description: Sample projects.
 nav: true
 nav_order: 3
-display_categories: [reinforcement-learning, cultural-heritage]
+display_categories: [work, fun]
 horizontal: false
 ---
 
