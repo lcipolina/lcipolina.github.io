@@ -19,9 +19,7 @@ My professional background includes roles as a Student Researcher at [Google Dee
 
 I am currently pursuing a PhD in Electrical Engineering at the University of Bristol (expected Feb 2025), focusing on deep reinforcement learning and multi-agent systems. I hold an MSc in Mathematics from the [Courant Institute](https://cims.nyu.edu/dynamic/) at [New York University](https://www.nyu.edu/), where I specialized in stochastic differential equations.
 
-
 I am also involved in a side project exploring [AI-based art restoration](https://artrestoreai.github.io/), where I investigate how machine learning can help preserve and revitalize cultural treasures.
-
 
 <!--  You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
