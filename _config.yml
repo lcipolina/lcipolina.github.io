@@ -6,10 +6,10 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Lucia
 middle_name:
 last_name: Cipolina Kun
-email: #you@example.com
-description: # > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
+# email: #you@example.com
+# description: # > # the ">" symbol means to ignore newlines until "footer_text:"
+# A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+# footer_text: >
   # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 keywords: Artificial Intelligence, Reinforcement Learning, Game Theory, LLMs # add your own keywords or leave empty
@@ -19,7 +19,7 @@ icon: prof_pic.jpg # the emoji used as the favicon (alternatively, provide image
 
 url: https://lcipolina.github.io # the base hostname & protocol for your site
 baseurl: "" # /al-folio # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -68,24 +68,23 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: lcipolina # your GitHub user name
-gitlab_username: # your GitLab user name
+# gitlab_username: # your GitLab user name
 twitter_username: LuciaCKun # your Twitter handle
-linkedin_username: lcipolina # your LinkedIn user name
+linkedin_username: luciacipolina # your LinkedIn user name
 scholar_userid: CSU2BuMAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-3094-577X # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: #your stackoverflow id
+# medium_username: # your Medium username
+# quora_username: # your Quora username
+# publons_id: # your ID on Publons
+# research_gate_profile: # your profile on ResearchGate
+# blogger_url: # your blogger URL
+# work_url: # work page URL
+# keybase_username: # your keybase user name
+# wikidata_id: # your wikidata id
+# dblp_url: # your DBLP profile url
+# stackoverflow_id: #your stackoverflow id
 
-# contact_note:>
-#You can even add a little note about which of these is the best way to reach you.
+contact_note: You can contact me on Linkedin
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -106,9 +105,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: lcipolina # blog_name will be displayed in your blog page
+# blog_name: lcipolina # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: blog
+# blog_description: blog
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
