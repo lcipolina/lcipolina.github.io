@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: Notable Repositories
-description: Highlight of sample repositories.
+title: repositories
+description: Highlight of some notable repositories.
 nav: true
 nav_order: 4
 ---
