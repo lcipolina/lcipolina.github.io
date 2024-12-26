@@ -438,11 +438,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-bluesky',
-        title: 'Bluesky',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://bsky.app/profile/luciakun.bsky.social", "_blank");
+          window.open("https://www.linkedin.com/in/luciacipolina", "_blank");
         },
       },{
         id: 'social-github',
@@ -452,11 +452,25 @@ ninja.data = [{
           window.open("https://github.com/lcipolina", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-bluesky',
+        title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/luciacipolina", "_blank");
+          window.open("https://bsky.app/profile/luciakun.bsky.social", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/LuciaCKun", "_blank");
+        },
+      },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@Lcipolina", "_blank");
         },
       },{
         id: 'social-rss',
@@ -471,20 +485,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=CSU2BuMAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/LuciaCKu", "_blank");
-        },
-      },{
-        id: 'social-youtube',
-        title: 'YouTube',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://youtube.com/@Lcipolina", "_blank");
         },
       },{
       id: 'light-theme',
