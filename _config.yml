@@ -633,3 +633,10 @@ jsonresume:
   - languages
   - interests
   - references
+
+# -----------------------------------------------------------------------------
+# Link Checker Configuration
+# -----------------------------------------------------------------------------
+htmlproofer:
+  ignore_urls:
+    - "https://www.nyu.edu/"
