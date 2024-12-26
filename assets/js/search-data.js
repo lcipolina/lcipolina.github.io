@@ -367,7 +367,12 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-have-started-an-internship-at-google-deepmind-in-the-game-theory-and-agents-team-my-work-will-focus-on-multi-agent-coordination",
+    },{id: "news-best-student-poster-award-at-the-first-multimodal-ai-workshop",
+          title: 'Best student poster award at the First Multimodal AI Workshop',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-i-have-started-an-internship-at-google-deepmind-in-the-game-theory-and-agents-team-my-work-will-focus-on-multi-agent-coordination",
           title: 'I have started an internship at Google DeepMind in the Game Theory and...',
           description: "",
           section: "News",},{id: "news-i-have-started-a-posdoc-at-the-juelich-supercomputing-center-in-the-scalable-deep-learning-research-team-my-work-will-focus-on-llm-reasoning-and-planning",
