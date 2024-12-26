@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-07-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I have started an internship at [Google DeepMind](https://deepmind.google/) in the Game Theory and Agents team. My work will focus in multi-agent coordination.
