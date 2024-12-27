@@ -383,7 +383,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-llm-reasoning-alice-in-wonderland-simple-tasks-reveal-severe-generalization-and-basic-reasoning-deficits-in-state-of-the-art-large-language-models-has-been-accepted-at-the-neurips-2024-workshop-workshop-on-scientific-methods-for-understanding-deep-learning",
           title: 'Our paper on LLM reasoning Alice in Wonderland: Simple Tasks Reveal Severe Generalization...',
           description: "",
-          section: "News",},{id: "news-i-have-started-a-posdoc-at-the-juelich-supercomputing-center-in-the-scalable-deep-learning-research-team-my-work-will-focus-on-llm-reasoning-and-planning",
+          section: "News",},{id: "news-i-have-started-a-posdoc-at-the-juelich-supercomputing-center-in-the-scalable-deep-learning-research-team-my-research-will-focus-on-understanding-llm-reasoning-and-planning-and-post-training",
           title: 'I have started a posdoc at the Juelich Supercomputing Center in the Scalable...',
           description: "",
           section: "News",},{id: "projects-project-1",
