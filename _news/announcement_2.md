@@ -13,4 +13,4 @@ The poster includes two works on Diffusion Models applied to [Inpainting](https:
 
 This recognition highlights the innovative research presented and its contribution to advancing multimodal artificial intelligence.
 
-![Best Student Poster Award](assets/img/2023-Multimodal-Best_Student_Poster_Award.pdf)
+![Best Student Poster Award](assets/img/2023-Multimodal-Best_Student_Poster_Award.jpg)
