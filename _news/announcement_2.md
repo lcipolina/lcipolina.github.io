@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best student poster award at the First Multimodal AI Workshop
+title: Best student poster award at the First Multimodal AI Workshop in the UK
 date: 2023-11-07
 inline: false
 related_posts: false
