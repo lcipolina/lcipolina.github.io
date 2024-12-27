@@ -13,4 +13,4 @@ The poster includes two works on Diffusion Models applied to [Inpainting](https:
 
 Our work introduces diffusion models for the restoration and preservation of cultural heritage pieces, in particular, the reconstruction of ancient paintings.
 
-![Best Student Poster Award](assets/img/2023-Multimodal-Best_Student_Poster_Award.jpg)
+![Best Student Poster Award](lcipolina.github.io/assets/img/2023-Multimodal-Best_Student_Poster_Award.jpg)
