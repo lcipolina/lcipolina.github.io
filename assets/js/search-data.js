@@ -372,7 +372,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
-            },},{id: "news-best-student-poster-award-at-the-first-multimodal-ai-workshop-in-the-uk",
+            },},{id: "news-i-have-started-an-internship-at-the-tate-britain-where-i-applied-diffusion-models-to-a-virtual-restoration-of-the-museum-s-pieces-the-work-was-part-of-the-tate-s-collection-first-rehang-in-over-ten-years-https-www-tate-org-uk-press-press-releases-tate-britain-unveils-complete-rehang-of-the-worlds-greatest-collection-of-british-art",
+          title: 'I have started an internship at the Tate Britain, where I applied diffusion...',
+          description: "",
+          section: "News",},{id: "news-best-student-poster-award-at-the-first-multimodal-ai-workshop-in-the-uk",
           title: 'Best student poster award at the First Multimodal AI Workshop in the UK...',
           description: "",
           section: "News",handler: () => {
