@@ -367,8 +367,13 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-best-student-poster-award-at-the-first-multimodal-ai-workshop",
-          title: 'Best student poster award at the First Multimodal AI Workshop',
+    },{id: "news-best-student-poster-award-at-the-mediterranean-machine-learning-summer-school",
+          title: 'Best student poster award at the Mediterranean Machine Learning Summer School',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-best-student-poster-award-at-the-first-multimodal-ai-workshop-in-the-uk",
+          title: 'Best student poster award at the First Multimodal AI Workshop in the UK...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
