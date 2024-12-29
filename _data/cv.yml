@@ -1,3 +1,5 @@
+# This file is currently not used. Just here as backup (read official documentation for more info)
+# CV data is on \assets\json\resume.json
 - title: General Information
   type: map
   contents:
