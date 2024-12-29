@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Sample projects.
+description: Outstanding projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [cultural heritage, reinforcement learning]
 horizontal: false
 ---
 
