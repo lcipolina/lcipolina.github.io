@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a researcher on Artificial Intelligence with a particular interest in Mathematics. My current research combines deep reinforcement learning, multi-agent systems, Game Theory and LLMs evaluation and planning.
+I am a researcher on Artificial Intelligence with a particular interest in Mathematics. My current research combines deep reinforcement learning, multi-agent systems, Game Theory. Currently I am focusing and LLMs post-training, evaluation and planning.
 
 My professional background includes roles as a Student Researcher at [Google DeepMind](https://deepmind.google/), where I contributed to projects in multi-agent decision processes, and as a Research Intern at [Juelich Supercomputing Center](https://www.fz-juelich.de/en/ias/jsc), focusing on large-scale generative models and LLM evaluation. I have also interned at [JPMorgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) optimizing reinforcement learning algorithms for trading, and at [Microsoft AI](https://www.microsoft.com/en-us/research/group/bing-speech-and-language-sciences/), working on model-based offline reinforcement learning for Bing’s search and revenue management. Earlier in my career, I worked as a front office quant at Morgan Stanley NY, implementing machine learning and diffusion models in C++.
 
