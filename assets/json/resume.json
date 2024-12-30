@@ -26,37 +26,56 @@
   ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Google DeepMind",
+      "position": "Student researcher",
+      "url": "https://deepmind.google/",
+      "startDate": "2024-07",
+      "endDate": "2024-12",
+      "summary": "Research on multi agent cooperation.",
+      "highlights": ["AI agents"]
+    },
+    {
+      "name": "JPMorgan AI Research",
+      "position": "Intern in the Reinforcement Learning team.",
+      "url": "https://www.jpmorgan.com/technology/artificial-intelligence",
+      "startDate": "2023-07",
+      "endDate": "2024-03",
+      "summary": "Reinforcement Learning for automatic trading."
+    },
+    {
+      "name": "Microsoft Bing",
+      "position": "Intern in the Bing - Analytics and Data Sciences team.",
+      "url": "https://www.microsoft.com/en-us/research/group/bing-speech-and-language-sciences/",
+      "startDate": "2021-05",
+      "endDate": "2021-09",
+      "summary": "Reinforcement Learning for automatic ad bidding."
+    },
+    {
+      "name": "Morgan Stanley",
+      "position": "Vice President in the Front Office Quantitative Research team.",
+      "startDate": "2020",
+      "endDate": "2017",
+      "summary": "C++ implementation of diffusion models and ML for the Prime Brokerage business."
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best student poster award",
+      "date": "2023",
+      "awarder": "First Workshop of Multimodal AI",
+      "url": "https://multimodalai.github.io/multimodalai23/"
+    },
+    {
+      "title": "Best student poster award",
+      "date": "2022",
+      "awarder": "Mediterranean Machine Learning Summer School",
+      "url": "https://www.m2lschool.org/past-editions/m2l-2022-italy",
+      "summary": "Awarded for our work on restoration of cultural heritage using diffuson models.'"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["Mathematics", "Stochastic calculus", "Machine learning", "Reinforcement learning", "Cultural humanities"]
     }
   ]
 }
