@@ -401,6 +401,11 @@ ninja.data = [{
           description: "Diffusion Models applied to the restoration of paintings and frescos.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-a-title",
+          title: 'A title',
+          description: "A description",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-linkedin',
         title: 'LinkedIn',
