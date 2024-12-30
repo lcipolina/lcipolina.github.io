@@ -8,8 +8,8 @@
   },
   "education": [
     {
-      "institution": "Univiversity of Bristol, Bristol, England.",
-      "location": "Bristol, England",
+      "institution": "Univiversity of Bristol, Bristol, UK.",
+      "location": "Bristol, UK.",
       "area": "Electrical Engineering.",
       "studyType": "PhD",
       "startDate": "2020",
@@ -27,7 +27,7 @@
   "work": [
     {
       "name": "Google DeepMind.",
-      "location": "England, UK.",
+      "location": "London, UK.",
       "position": "Student researcher.",
       "url": "https://deepmind.google/",
       "startDate": "2024-07",
@@ -47,7 +47,7 @@
     },
     {
       "name": "JPMorgan AI Research.",
-      "location": "England, UK.",
+      "location": "London, UK.",
       "position": "Intern in the Reinforcement Learning team.",
       "url": "https://www.jpmorgan.com/technology/artificial-intelligence",
       "startDate": "2023-07",
@@ -56,7 +56,7 @@
     },
     {
       "name": "TATE Britain.",
-      "location": "England, UK.",
+      "location": "London, UK.",
       "position": "Intern in the collection rehang.",
       "url": "https://www.tate.org.uk/press/press-releases/tate-britain-unveils-complete-rehang-of-the-worlds-greatest-collection-of-british-art",
       "startDate": "2023-05",
