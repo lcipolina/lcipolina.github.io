@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Machine Learning applied to cultural heritage
-description: Diffusion Models applied to the restoration of paintings and frescos.
-img: assets/img/escher.jpeg
-redirect: https://artrestoreai.github.io/
+title: A title
+description: A description
+img: assets/img/1.jpg
+redirect: https://google.com/
 importance: 3
-category: cultural heritage
+category: work
 ---
-
-# This below is not used. The project redirects to the website.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
