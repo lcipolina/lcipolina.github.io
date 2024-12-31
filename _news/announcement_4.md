@@ -14,4 +14,6 @@ Our poster has been selected as _"one of the 5 most impressive works presented a
 
 Thank you very much to the organizers, Matteo, Martina, Francesco, Francesco, Andrea!
 
-<img src="{{ site.baseurl }}/assets/img/2022_best_poster_award_M2L.png" alt="Best Poster Award" width="300">
+
+
+<img src="{{ site.baseurl }}/assets/img/2022_best_poster_award_M2L.png" alt="Best Poster Award" width="500">

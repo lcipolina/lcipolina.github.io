@@ -86,6 +86,7 @@
       "title": "Research grant",
       "date": "2023",
       "awarder": "Helmholtz Association of German Research Centers.",
+      "location": "Cologne, Germany.",
       "url": "https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/"
     },
     {
@@ -99,7 +100,8 @@
       "date": "2022",
       "awarder": "Mediterranean Machine Learning Summer School",
       "url": "https://www.m2lschool.org/past-editions/m2l-2022-italy",
-      "summary": "Awarded for our work on restoration of cultural heritage using diffusion models."
+      "summary": "Awarded for our work on restoration of cultural heritage using diffusion models.",
+      "icon": "fa-solid fa-tag"
     },
     {
       "title": "Bronze Medal",
