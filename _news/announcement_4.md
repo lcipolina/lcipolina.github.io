@@ -13,3 +13,5 @@ I am delighted to share that my collaborators and I have been awarded the **Best
 Our poster has been selected as _"one of the 5 most impressive works presented at the school"_.
 
 Thank you very much to the organizers, Matteo, Martina, Francesco, Francesco, Andrea!
+
+<img src="{{ site.baseurl }}/assets/img/2022_best_poster_award_M2L.png" alt="Best Poster Award" width="300">
