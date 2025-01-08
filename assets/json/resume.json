@@ -93,15 +93,15 @@
       "title": "Best student poster award",
       "date": "2023",
       "awarder": "First Workshop of Multimodal AI",
-      "url": "https://multimodalai.github.io/multimodalai23/"
+      "url": "/news/announcement_2/"
     },
     {
       "title": "Best student poster award",
       "date": "2022",
       "awarder": "Mediterranean Machine Learning Summer School",
-      "url": "https://www.m2lschool.org/past-editions/m2l-2022-italy",
+      "url": "/news/announcement_4/",
       "summary": "Awarded for our work on restoration of cultural heritage using diffusion models.",
-      "icon": "fa-solid fa-tag"
+      "icon": "assets/img/2022_best_poster_award_M2L.png"
     },
     {
       "title": "Bronze Medal",

@@ -4,6 +4,7 @@ title: Best student poster award at the Mediterranean Machine Learning Summer Sc
 date: 2022-09-16
 inline: false
 related_posts: false
+permalink: /news/announcement_4/
 ---
 
 ## Best Student Poster Award at the Mediterranean Machine Learning Summer School 2022
