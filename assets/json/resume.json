@@ -42,8 +42,8 @@
       "url": "https://www.fz-juelich.de/en/ias/jsc",
       "startDate": "2024-03",
       "endDate": "2024-07",
-      "summary": "Research on high performance computing applied to cultural heritage.",
-      "highlights": ["Herculaneum Papyrus Challenge"]
+      "summary": "Research on high performance computing applied to LLM reasoning.",
+      "highlights": ["LLM evaluation"]
     },
     {
       "name": "JPMorgan AI Research.",
