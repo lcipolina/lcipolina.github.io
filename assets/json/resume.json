@@ -26,6 +26,15 @@
   ],
   "work": [
     {
+      "name": "META.",
+      "location": "London, UK.",
+      "position": "Research Engineer.",
+      "url": "https://ai.meta.com/research/",
+      "startDate": "2025-04",
+      "summary": "Research on AI agents for scientific discovery.",
+      "highlights": ["AI agents"]
+    },
+    {
       "name": "Google DeepMind.",
       "location": "London, UK.",
       "position": "Student researcher.",
@@ -48,14 +57,14 @@
     {
       "name": "JPMorgan AI Research.",
       "location": "London, UK.",
-      "position": "Intern in the Reinforcement Learning team.",
+      "position": "Intern in the reinforcement learning team.",
       "url": "https://www.jpmorgan.com/technology/artificial-intelligence",
       "startDate": "2023-07",
       "endDate": "2024-03",
       "summary": "Developed a methodology based on Reinforcement Learning for automatic trading."
     },
     {
-      "name": "TATE Britain.",
+      "name": "TATE Britain Museum.",
       "location": "London, UK.",
       "position": "Intern in the collection rehang.",
       "url": "https://www.tate.org.uk/press/press-releases/tate-britain-unveils-complete-rehang-of-the-worlds-greatest-collection-of-british-art",
