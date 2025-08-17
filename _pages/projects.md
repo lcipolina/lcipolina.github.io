@@ -5,7 +5,7 @@ permalink: /projects/
 description: Outstanding projects.
 nav: true
 nav_order: 3
-display_categories: [cultural heritage, reinforcement learning]
+display_categories: [LLM, cultural heritage]
 horizontal: false
 ---
 
