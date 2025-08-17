@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Game Reasoning Arena - an LLM reasoning leaderboard.
-description: Game Reasoning Arena is a research platform where Large Language Models battle in board games against other LLMs, humans, or random bots
+description: Game Reasoning Arena is a research platform where Large Language Models battle in board games against other LLMs, humans, or random bots.
 img: assets/img/game_reasoning_arena_blog_logo.png
 redirect: https://laion.ai/blog/reasoning_game_arena_blog_post/
 importance: 3
