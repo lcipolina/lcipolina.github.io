@@ -386,6 +386,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-llm-reasoning-alice-in-wonderland-simple-tasks-reveal-severe-generalization-and-basic-reasoning-deficits-in-state-of-the-art-large-language-models-has-been-accepted-at-neurips-2024-workshop-on-scientific-methods-for-understanding-deep-learning",
           title: 'Our paper on LLM reasoning Alice in Wonderland: Simple Tasks Reveal Severe Generalization...',
           description: "",
+          section: "News",},{id: "news-our-work-on-game-reasoning-arena-is-out-see-llm-agents-compete-strategize-and-adapt-in-dynamic-game-environments",
+          title: 'Our work on Game Reasoning Arena is out. See LLM agents compete, strategize...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -401,9 +404,9 @@ ninja.data = [{
           description: "Diffusion Models applied to the restoration of paintings and frescos.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-a-title",
-          title: 'A title',
-          description: "A description",
+            },},{id: "projects-game-reasoning-arena-an-llm-reasoning-leaderboard",
+          title: 'Game Reasoning Arena - an LLM reasoning leaderboard.',
+          description: "Game Reasoning Arena is a research platform where Large Language Models battle in board games against other LLMs, humans, or random bots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
