@@ -406,7 +406,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-game-reasoning-arena-an-llm-reasoning-leaderboard",
           title: 'Game Reasoning Arena - an LLM reasoning leaderboard.',
-          description: "Game Reasoning Arena is a research platform where Large Language Models battle in board games against other LLMs, humans, or random bots",
+          description: "Game Reasoning Arena is a research platform where Large Language Models battle in board games against other LLMs, humans, or random bots.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
