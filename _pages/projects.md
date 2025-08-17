@@ -5,7 +5,7 @@ permalink: /projects/
 description: Outstanding projects.
 nav: true
 nav_order: 3
-display_categories: [LLM, cultural heritage]
+display_categories: [Large Language Models, cultural heritage]
 horizontal: false
 ---
 

@@ -5,7 +5,7 @@ description: Game Reasoning Arena is a research platform where Large Language Mo
 img: assets/img/game_reasoning_arena_blog_logo.png
 redirect: https://laion.ai/blog/reasoning_game_arena_blog_post/
 importance: 3
-category: LLM
+category: Large Language Models  # this category should be defined exactly like this in /_pages/projects.md
 ---
 
 # This below is not used. The project redirects to the website.
