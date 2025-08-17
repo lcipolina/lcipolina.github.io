@@ -1,12 +1,14 @@
 ---
 layout: page
-title: A title
-description: A description
-img: assets/img/1.jpg
-redirect: https://google.com/
+title: Game Reasoning Arena - an LLM reasoning leaderboard.
+description: Game Reasoning Arena is a research platform where Large Language Models battle in board games against other LLMs, humans, or random bots
+img: assets/img/game_reasoning_arena_blog_logo.png
+redirect: https://laion.ai/blog/reasoning_game_arena_blog_post/
 importance: 3
-category: work
+category: LLM
 ---
+
+# This below is not used. The project redirects to the website.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
